@@ -1,15 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include "lists.h"
 
 /**
- *  * is_palindrome - check if a linked list is a palindrome
- *   * @head: pointer to head of list
- *    * Return: 0 or 1
+ *  * main - check the code for Holberton School students.
+ *   *
+ *    * Return: Always 0.
  */
-int is_palindrome(listint_t **head)
+int main(void)
 {
-	const listint_t *current;
-	const listint_t *tail;
-	unsigned int n = 0;
+	listint_t *head;
 
-	return (n);
+	return (0);
 }
