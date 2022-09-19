@@ -20,6 +20,7 @@ class Rectangle:
             if i is not self.__height - 1:
                 total += "\n"
         return total
+
     @property
     def width(self):
         return self.__width
